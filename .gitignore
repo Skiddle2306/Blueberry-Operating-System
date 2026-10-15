@@ -1,0 +1,42 @@
+# Build directories
+build/
+
+
+# Object files
+*.o
+*.a
+
+# Executables / binaries
+*.bin
+*.elf
+*.exe
+
+# Disk / filesystem images
+*.img
+*.iso
+
+# Debug / symbol files
+*.map
+*.sym
+
+# Dependency files
+*.d
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Compiler output
+*.out
+
+# IDE / editor files
+.vscode/
+.idea/
+.zed/
+
+# OS / file manager files
+
+# Compilation database
+
+# Logs
